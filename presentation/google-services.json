@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "113584995642",
+    "project_id": "smartyard-c300c",
+    "storage_bucket": "smartyard-c300c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113584995642:android:a3aafcb5f8bba3e6646403",
+        "android_client_info": {
+          "package_name": "com.real.intercom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTvzJuO4h-wt0GOEd4v0KeGjtyS-zRDaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113584995642:android:17e10455e011a5f4646403",
+        "android_client_info": {
+          "package_name": "com.sesameware.smartyard_oem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTvzJuO4h-wt0GOEd4v0KeGjtyS-zRDaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
